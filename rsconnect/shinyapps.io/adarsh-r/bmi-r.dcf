@@ -1,0 +1,10 @@
+name: bmi-r
+title:
+username: adarsh-r
+account: adarsh-r
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14884894
+bundleId: 10401263
+url: https://adarsh-r.shinyapps.io/bmi-r/
+version: 1
